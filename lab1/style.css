@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 700px;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #0078ff;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 24px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 18px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+select,
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px 14px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input,
+select {
+    margin-top: 10px;
+    margin-right: 10px;
+}
