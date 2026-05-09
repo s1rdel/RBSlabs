@@ -1,0 +1,12 @@
+{
+  "name": "node-library-lab",
+  "version": "1.0.0",
+  "description": "Node.js laboratory work with MySQL",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.9.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
